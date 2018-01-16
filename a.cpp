@@ -1,3 +1,6 @@
+//student name: intan syazriena bt. mohd. shahidon
+//student id: a17dw2281
+
 #include <iostream>
 using namespace std;
 
